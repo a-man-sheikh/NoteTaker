@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\AMAN\Note-Taker\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1313489841.index
+3669866886.index
+2389236961.index
+2389236961.index
+1877582558.index
+1389147521.index
+2242528109.index
+3006094525.index
